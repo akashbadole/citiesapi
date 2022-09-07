@@ -9,7 +9,7 @@ const citiesData = require("./citydata.json")
 
 //Read Request Handlers
 app.get('/', (req, res) => {
-    res.send('welcome to Akash Badole - JSON Cities');
+    res.send('welcome to Indian city - getting JSON format - Akash Badole<br>total 1220 cities</br>');
 }
 );
 
